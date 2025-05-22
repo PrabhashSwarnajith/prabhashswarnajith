@@ -34,13 +34,24 @@ const prabhash = {
 ## 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=prabhashswarnajith&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+  <!-- 🔁 Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=prabhashswarnajith&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180px" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- 🧠 Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhashswarnajith&theme=radical" height="200px" alt="Profile Summary Card" />
+
+  <br /><br />
+
+  <!-- 📊 Stats and Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhashswarnajith&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhashswarnajith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180px" alt="Top Languages" />
+
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prabhashswarnajith&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhashswarnajith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
+
 
 ## 🛠️ Tech Arsenal
 
@@ -48,6 +59,7 @@ const prabhash = {
   <img src="https://skillicons.dev/icons?i=java,dotnet,spring,javascript,react,html,css,nodejs,express,postgres,mysql,docker,git,linux,postman,figma&perline=8" />
 </div>
 
+</div>
 
 
 
